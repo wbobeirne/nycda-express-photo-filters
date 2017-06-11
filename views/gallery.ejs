@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Codestagram</title>
+		<link rel="stylesheet" type="text/css" href="/css/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="/css/style.css"/>
+	</head>
+	<body>
+		<div class="gallery">
+			<% for (let i = 0; i < images.length; i++) { %>
+				<img class="gallery-image" src="<%- images[i] %>"/>
+			<% } %>
+		</div>
+	</body>
+</html>
