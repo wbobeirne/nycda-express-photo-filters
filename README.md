@@ -10,3 +10,8 @@ completed. Some of those comments might reference this readme, so be sure to
 keep it open. Follow the comments one by one, and make sure to run your project
 frequently to make sure everything's going smoothly. Console log anything you're
 unfamiliar with, so that you can see what it is.
+
+## Bonus Objectives
+
+* Try adding more filter styles in photoFilters.js, you can reference the [Jimp](https://github.com/oliver-moran/jimp) documentation to learn how to use it
+* Try hooking up a database to this that saves all Codestagram uploads, and have a list page to look at them

@@ -26,6 +26,11 @@ body {
 	border-radius: 3px;
 }
 
+.home-form-error {
+	color: #F00;
+	margin-bottom: 10px;
+}
+
 .home-form-file {
 	display: block;
 	margin-bottom: 20px;
